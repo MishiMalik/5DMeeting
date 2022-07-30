@@ -133,6 +133,7 @@
     left: 26%;
   }
 }
+
 @media only screen and (max-width: 365px) {
   .polichief-logo {
     left: 21%;
