@@ -39,79 +39,26 @@
     font-size: 22px !important;
   }
 }
-@media only screen and (min-width: 1400px) {
-  .polichief-logo {
-    left: 27%;
-  }
-  .partners-text-1 {
-    min-height: 195px;
-  }
-  .arrow-btn {
-    margin-top: 0px !important;
-  }
-}
+
 @media only screen and (max-width: 1200px) {
-  .about-img {
-    border-radius: 25px;
-  }
-  .polichief-logo {
-    height: 50px;
-    width: 110px;
-    left: 20%;
-  }
+ 
   main {
     margin-top: 78px !important;
   }
 }
 @media only screen and (max-width: 1100px) {
-  .partners-text-1 {
-    min-height: 270px;
-  }
-  .hero-img {
-    width: 401px;
-    height: 305px;
-  }
+  
   .logo img {
     width: 280px;
     height: 55px;
   }
-  .polichief-logo {
-    height: 50px;
-    width: 110px;
-    left: 23%;
-  }
-  .card {
-    min-height: 180px;
-  }
+
 }
 
-@media only screen and (max-width: 991px) {
-  .demo {
-    margin-top: 0px;
-  }
-  .polichief-logo {
-    height: 50px;
-    width: 110px;
-    left: 33%;
-  }
-}
 
-@media only screen and (max-width: 767px) {
-  .polichief-logo {
-    height: 50px;
-    width: 110px;
-    left: 27%;
-  }
-  .partners-text-1 {
-    min-height: 100px;
-  }
-}
+
 @media only screen and (max-width: 576px) {
-  .polichief-logo {
-    height: 33px;
-    width: 80px;
-    left: 33%;
-  }
+
   .speak {
     padding: 20px 10px;
   }
@@ -176,6 +123,9 @@
   }
   .logo-5d{
     margin-top: -20px;
+  }
+  .f-40{
+    font-size: 20px;
   }
 }
 @media only screen and (max-width: 425px) {
